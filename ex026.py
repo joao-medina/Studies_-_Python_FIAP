@@ -9,7 +9,7 @@ dicionario = {
 
 print(dicionario.keys())
 
-print(dicionario.values())
+print(dicionario.values()) 
 
 print(dicionario.items())
 
